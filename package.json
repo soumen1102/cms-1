@@ -6,7 +6,7 @@
   "description": "cms - content management system",
   "dependencies":{
     "total.js":"~3.4.9",
-    "uglify-js":"~3.14.3",
+    "uglify-js":"~3.17.4",
     "nodee-utils":"*",
     "nodee-model":"*",
     "nodee-view":"*"
